@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597118868 source:c:\users\user\desktop\c++ programming\file handling\getw&putw\main.cpp
+	<stdio.h>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597056861 source:c:\users\user\desktop\c++ programming\sorting\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
